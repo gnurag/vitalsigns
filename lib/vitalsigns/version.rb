@@ -1,0 +1,3 @@
+module Vitalsigns
+  VERSION = '0.0.1'
+end
