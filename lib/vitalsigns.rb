@@ -1,5 +1,5 @@
 require 'vitalsigns/version'
 require 'vitalsigns/command'
-#require 'vitalsigns/hdparm'
-#require 'vitalsigns/fio'
+require 'vitalsigns/hdparm'
+require 'vitalsigns/fio'
 require 'vitalsigns/df'
