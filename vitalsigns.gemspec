@@ -20,6 +20,8 @@ Gem::Specification.new do |gem|
 
   gem.required_ruby_version = ">= 1.9.0"
 
-  gem.add_development_dependency 'rake', '~> 0'
-  gem.add_development_dependency 'rspec', '~> 0'
+  gem.add_development_dependency 'rake'
+  gem.add_development_dependency 'minitest'
+  gem.add_development_dependency 'minitest-reporters', ['~> 1.1', '>= 1.1.14']
+  gem.add_development_dependency 'simplecov'
 end
