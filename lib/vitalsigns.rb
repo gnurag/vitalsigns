@@ -1,5 +1,7 @@
 require 'vitalsigns/version'
 require 'vitalsigns/command'
+require 'vitalsigns/device_lookup'
 require 'vitalsigns/hdparm'
 require 'vitalsigns/fio'
 require 'vitalsigns/df'
+require 'vitalsigns/error'
