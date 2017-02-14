@@ -41,6 +41,13 @@ Example usage
     f = Vitalsigns::Fio.new
     f.fio '/mnt/nfsmount'
     
+Testing
+-------
+
+```
+$rake test
+```
+
 Also see
 --------
 * https://linux.die.net/man/8/hdparm
